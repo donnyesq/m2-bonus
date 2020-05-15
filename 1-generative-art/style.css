@@ -1,0 +1,8 @@
+body {
+  background-color: #eebd9d;
+}
+
+div.canvas {
+  width: 100vw;
+  max-height: 100vh;
+}
